@@ -2156,6 +2156,7 @@ This is a curated, opinionated list — not an exhaustive one. The goal is to po
 
 ### Newsletters and blogs
 
+- **[AI Weekly](https://aiweekly.co/)** Tracks what influential AI experts and organizations are reading and sharing, then explains developments across models, agents, funding, policy, and research.
 - **Lenny's Newsletter** The most-read PM newsletter. Broad coverage with frequent AI PM material.
 - **Import AI, by Jack Clark** Weekly survey of significant AI developments. Excellent way to keep pace with the field without drowning.
 - **The Batch, from DeepLearning.AI** Andrew Ng's weekly AI roundup. Accessible and well-curated.
